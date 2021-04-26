@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\-0266\第一次作业\第一次作业第二小题\第一次作业第二小题\bin\Debug\第一次作业第二小题.exe.config
+C:\Users\Admin\source\repos\-0266\第一次作业\第一次作业第二小题\第一次作业第二小题\bin\Debug\第一次作业第二小题.exe
+C:\Users\Admin\source\repos\-0266\第一次作业\第一次作业第二小题\第一次作业第二小题\bin\Debug\第一次作业第二小题.pdb
+C:\Users\Admin\source\repos\-0266\第一次作业\第一次作业第二小题\第一次作业第二小题\obj\Debug\第一次作业第二小题.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\-0266\第一次作业\第一次作业第二小题\第一次作业第二小题\obj\Debug\第一次作业第二小题.Form1.resources
+C:\Users\Admin\source\repos\-0266\第一次作业\第一次作业第二小题\第一次作业第二小题\obj\Debug\第一次作业第二小题.Properties.Resources.resources
+C:\Users\Admin\source\repos\-0266\第一次作业\第一次作业第二小题\第一次作业第二小题\obj\Debug\第一次作业第二小题.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\-0266\第一次作业\第一次作业第二小题\第一次作业第二小题\obj\Debug\第一次作业第二小题.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\-0266\第一次作业\第一次作业第二小题\第一次作业第二小题\obj\Debug\第一次作业第二小题.exe
+C:\Users\Admin\source\repos\-0266\第一次作业\第一次作业第二小题\第一次作业第二小题\obj\Debug\第一次作业第二小题.pdb
