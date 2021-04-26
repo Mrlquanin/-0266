@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第三题\第二周作业第三题\bin\Debug\netcoreapp3.1\第二周作业第三题.exe
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第三题\第二周作业第三题\bin\Debug\netcoreapp3.1\第二周作业第三题.deps.json
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第三题\第二周作业第三题\bin\Debug\netcoreapp3.1\第二周作业第三题.runtimeconfig.json
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第三题\第二周作业第三题\bin\Debug\netcoreapp3.1\第二周作业第三题.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第三题\第二周作业第三题\bin\Debug\netcoreapp3.1\第二周作业第三题.dll
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第三题\第二周作业第三题\bin\Debug\netcoreapp3.1\第二周作业第三题.pdb
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第三题\第二周作业第三题\obj\Debug\netcoreapp3.1\第二周作业第三题.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第三题\第二周作业第三题\obj\Debug\netcoreapp3.1\第二周作业第三题.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第三题\第二周作业第三题\obj\Debug\netcoreapp3.1\第二周作业第三题.AssemblyInfo.cs
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第三题\第二周作业第三题\obj\Debug\netcoreapp3.1\第二周作业第三题.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第三题\第二周作业第三题\obj\Debug\netcoreapp3.1\第二周作业第三题.dll
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第三题\第二周作业第三题\obj\Debug\netcoreapp3.1\第二周作业第三题.pdb
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第三题\第二周作业第三题\obj\Debug\netcoreapp3.1\第二周作业第三题.genruntimeconfig.cache

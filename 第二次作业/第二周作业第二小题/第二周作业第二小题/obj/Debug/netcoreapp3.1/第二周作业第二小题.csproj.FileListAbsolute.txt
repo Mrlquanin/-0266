@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第二小题\第二周作业第二小题\bin\Debug\netcoreapp3.1\第二周作业第二小题.exe
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第二小题\第二周作业第二小题\bin\Debug\netcoreapp3.1\第二周作业第二小题.deps.json
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第二小题\第二周作业第二小题\bin\Debug\netcoreapp3.1\第二周作业第二小题.runtimeconfig.json
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第二小题\第二周作业第二小题\bin\Debug\netcoreapp3.1\第二周作业第二小题.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第二小题\第二周作业第二小题\bin\Debug\netcoreapp3.1\第二周作业第二小题.dll
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第二小题\第二周作业第二小题\bin\Debug\netcoreapp3.1\第二周作业第二小题.pdb
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第二小题\第二周作业第二小题\obj\Debug\netcoreapp3.1\第二周作业第二小题.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第二小题\第二周作业第二小题\obj\Debug\netcoreapp3.1\第二周作业第二小题.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第二小题\第二周作业第二小题\obj\Debug\netcoreapp3.1\第二周作业第二小题.AssemblyInfo.cs
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第二小题\第二周作业第二小题\obj\Debug\netcoreapp3.1\第二周作业第二小题.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第二小题\第二周作业第二小题\obj\Debug\netcoreapp3.1\第二周作业第二小题.dll
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第二小题\第二周作业第二小题\obj\Debug\netcoreapp3.1\第二周作业第二小题.pdb
+C:\Users\Admin\source\repos\-0266\第二次作业\第二周作业第二小题\第二周作业第二小题\obj\Debug\netcoreapp3.1\第二周作业第二小题.genruntimeconfig.cache
